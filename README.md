@@ -1,5 +1,5 @@
 
-<h1>Olá! Eu sou Luiz 👋</h1>
+<h1>AOBA👋</h1>
 
 <p>estudante de ADS</p>
 
@@ -21,4 +21,11 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizcs200-sketch&show_icons=true&theme=midnight-purple">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizcs200-sketch&show_icons=true&theme=midnight-purple&hide_border=true" width="480">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcs200-sketch&layout=compact&theme=midnight-purple&hide_border=true">
+</p>
